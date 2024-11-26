@@ -36,4 +36,4 @@ This repository contains the following resources for the research:
 ### Clone Repository:
 Clone the repository using the following command:  
 ```bash
-git clone https://github.com/yourusername/Predictive_Lung_Cancer_Analysis.git
+https://github.com/aboodjq/Predictive_Lung_Cancer_Analysis.git
